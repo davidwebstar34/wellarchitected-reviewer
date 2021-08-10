@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/davidwebstar34/wellarchitected-reviewer">
-    <img src="images/WAreviewer.jpg">
+    <img src="images/WAReviewer.jpg">
   </a>
 
   <h3 align="center">Well architected reviewer</h3>
@@ -49,14 +49,14 @@ Wellarchitected reviewer uses Lambda to publish results to a S3 bucket which is 
 This is an example of how to list things you need to use the software and how to install them.
 * nodejs14
   ```sh
-  https://www.python.org/
+  https://www.nodejs.org/
   ```
 
 ### Using
 
-1. Post requests to the following URL
+1. Create project using 
    ```sh
-   npm i
+   npm install
    ```
 
 
